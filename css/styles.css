@@ -551,6 +551,12 @@ body {
     margin-left: 24px;
 }
 
+.footer-form-submit:hover,
+.footer-form-submit:focus {
+    background-color: #404BBF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
 .footer-btn-icon {
     margin-left: 16px;
 }
@@ -564,6 +570,7 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.3);
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     border-radius: 4px;
+    color: #FFFFFF;
 }
 
 .footer-form-input::placeholder {
