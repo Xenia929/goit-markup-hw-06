@@ -528,6 +528,7 @@ body {
 
 .footer-form {
     display: flex;
+    
 }
 
 .footer-form-submit {
@@ -547,6 +548,7 @@ body {
     background: var(--primary-third-color);
     border-radius: 4px;
     border: none;
+    margin-left: 24px;
 }
 
 .footer-btn-icon {
